@@ -19,6 +19,14 @@ npm run build
 ```
 npm run lint
 ```
+### install bootstrap on vue (installed latest version)
+```
+npm install bootstrap
+```
+### vue router
+```
+npm install vue-router@4
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
